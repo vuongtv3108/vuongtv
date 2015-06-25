@@ -16,5 +16,5 @@ if(isset($_POST) and isset($_POST['sub_var']))
     $cal->b = $var2;
     $cal->nhangiatri($method);
 }
-
+//tran viet vuong
 ?>
